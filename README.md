@@ -1,3 +1,8 @@
+### Prerequisites
+```bash
+dnf install libftdi libftdi-devel
+```
+
 ### Build
 ```bash
 mkdir build
